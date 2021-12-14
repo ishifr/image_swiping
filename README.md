@@ -1,6 +1,7 @@
 # liquid_swiping1
 
-![ Alt text](img.gif) / ! [](img.gif)
+![ Alt text](img.gif) /width="128"
+! [](img.gif)
 
 A new Flutter project.
 
